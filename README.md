@@ -12,9 +12,11 @@ Each Starter Kit Should Include:
 
 
 
-EOSIO
+EOSIO - NOTE TAKING APP
+
   https://github.com/EOSIO/eosio-project-boilerplate-simple
-    Boiler Plate App - NoteChain
+        
+    
     NoteChain demonstrates the eosio platform running a blockchain as a local single node test net with a simple DApp, NoteChain. NoteChain allows users to create and update notes. This guide uses scripts, containing relevant commands, which will show you how to install, build and run NoteChain, and by doing so will demonstrate:
 
     Downloading and running eosio in docker;
@@ -31,3 +33,22 @@ Github eosio-project-boilerplate-simple (https://github.com/EOSIO/eosio-project-
 The sample DApp demonstrates storing data in multi index table and retrieving this data into the web based UI. NoteChain is a simple note taking application, where notes are tied to user accounts. For this example, all accounts are pre-created by scripts and the account details are displayed at the bottom of the NoteChain UI.
 
 Each account can then be used to add a note to the blockchain. The individual notes are saved in a multi-index table and for simplicity are of fixed width. Each account may have one note attached to it, adding a note to an account with an existing note will replace the existing note with a new note.
+
+
+
+EOSIO - BLOG APP
+
+https://github.com/EOSIO/eosio-project-demux-example
+
+
+This Blog DApp demonstrates the eosio platform running a blockchain as a local single node test net with a simple DApp. This DApp allows users to create, edit, delete and like blog posts. This guide uses scripts, containing relevant commands, which will show you how to install, build and run the DApp, and by doing so will demonstrate:
+
+    Downloading and running eosio in docker
+    Managing your docker container
+    Setting up and running a local single node testnet
+    Setting up wallets, keys, and accounts
+    Writing and deploying a smart contract
+    Implementing a Node.js server with Demux to watch and read the state of the blockchain
+    Setting up and using a MongoDB database to store state data relevant to the DApp
+    Implementing a web based UI using React bootstrapped with Create React App
+    Connecting the UI to the blockchain using eosjs
