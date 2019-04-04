@@ -13,6 +13,18 @@ Each Starter Kit Should Include:
 
 
 
+HYPERLEDGER SUPPLY CHAIN APP
+
+https://github.com/IBM/blockchainbean2
+
+
+This code pattern shows how to model a supply-chain network using the IBM Blockchain Platform V2 Beta and is based on a collaboration with Brooklyn Roasting Company. The story, along with the supply-chain documents that were used to model this network, can be found at: https://www.ibm.com/blockchainbean
+
+
+
+
+
+
 
 ***EOSIO - NOTE TAKING APP***
 
